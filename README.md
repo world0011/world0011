@@ -27,7 +27,7 @@ I enjoy experimenting with Linux, Databases, and server environments to understa
 ---
 
 ## 📫 Connect  
-- GitHub: [world1100](https://github.com/KasraMoradi-0)  
+- Discord: world_h
 - Email: kasramoradi517@gmail.com  
 
 > 💡 _"Just run the code one more time, it may run the second time."_  
