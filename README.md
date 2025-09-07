@@ -16,7 +16,7 @@ I enjoy experimenting with Linux, Databases, and server environments to understa
 - Other: CLI tools, workflow automation, scripting utilities
 ---
 ## Official Projects
-- NexWorld: pip install NexWorld, Discord Reverse Shell
+- NexWorld: pip install worldnex, Discord Reverse Shell
 - Face Recognition: Open source project for face reocgnition
 ---
 ## 📚 Currently Learning  
